@@ -35,7 +35,10 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 ### <h2>My projects:</h2>
 
 
-<h3>1. Applicant Tracking System</h3>    
+<h3>1. Applicant Tracking System</h3>
+
+
+
 🌐 Live: [ATS project live](https://ats-mateuszkuruc.onrender.com/)  
 Github: [Repository & description](https://github.com/MateuszKuruc/ATS-recruitment-app)
 
