@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ---
+### Tools I use
+
+<img align="left" alt="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 
 <!--
 **MateuszKuruc/MateuszKuruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
