@@ -22,9 +22,9 @@
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />     
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
           
+___
 
-
-       
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuszkuruc)](https://github.com/mateuszkuruc/github-readme-stats)
           
           
 
