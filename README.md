@@ -24,7 +24,7 @@
           
 ___
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuszkuruc)](https://github.com/mateuszkuruc/github-readme-stats)
+
           
           
 
