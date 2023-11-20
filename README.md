@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Mateusz, a <b>junior JavaScript Developer</b> passionate about building web apps!
+I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 <p>My main focus is on modern frontend tools, like React, Next.js or TypeScript, but I am also regularly learning backend to deepen my understanding of web dev. 
 </p>
 
