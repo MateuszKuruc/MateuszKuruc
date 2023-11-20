@@ -26,9 +26,12 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />     
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
 
-<br/><br/>
+<!-- Add a horizontal line to create visual separation -->
+<hr/>
 
 ### My projects:
+
+
 1. Applicant Tracking System  
 🌐 Live: [ATS project live](https://ats-mateuszkuruc.onrender.com/)
  
