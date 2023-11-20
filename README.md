@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
-<p>My main focus is on modern frontend tools, like React, Next.js or TypeScript, with Tailwind, Material UI and Styled components for styling.
-</p>
-<p>On the backend side I use Node.js, Express, AWS S3 and MongoDB to build my apps.</p>
+<p>My main focus is on modern frontend tools, like React, Next.js or TypeScript, with Tailwind, Material UI and Styled components for styling. On the backend side I use Node.js, Express, AWS S3 and MongoDB to build my apps.</p>
 <p>I live in Katowice, Poland, and am currently looking for a company where I can apply my JavaScript skills to help with the projects and learn along the way. Feel free to contact me if you want to talk!</p>
 
 🌐 [Visit my website to learn more!](https://www.mateuszkuruc.com)
