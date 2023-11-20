@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
-### My main focus is on modern frontend tools, like React, Next.js or TypeScript, but I am also regularly learning backend to deepen my understanding of web dev.
+<p>My main focus is on modern frontend tools, like React, Next.js or TypeScript, but I am also regularly learning backend to deepen my understanding of web dev.
+</p>
 
 🌐 [Visit my website to learn more!](https://www.mateuszkuruc.com)
 ---
