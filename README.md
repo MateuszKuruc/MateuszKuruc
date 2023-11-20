@@ -51,6 +51,7 @@ Github: [Repository & description](https://github.com/MateuszKuruc/ATS-recruitme
 🌐 Live: [Marketing portfolio site](https://www.reklamyfacebook.pl/)  
 Github: [Repository & description](https://github.com/MateuszKuruc/marketing-portfolio)
 
+<hr/>
 
 ### <h3>Contact</h3>
 
