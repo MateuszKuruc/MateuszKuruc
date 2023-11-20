@@ -5,7 +5,7 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 
 🌐 [Visit my website to learn more!](https://www.mateuszkuruc.com)
 ---
-### <h2>Tools I use to build my projects:</h2>
+### <h2>Tools I use for development:</h2>
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
