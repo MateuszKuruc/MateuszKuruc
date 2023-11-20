@@ -26,7 +26,7 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 <img align="left" alt="Git" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />     
 <img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
 
-
+<hr/>
 <p>
  See my work:
 </p>
@@ -44,25 +44,4 @@ Github: [Repository & description](https://github.com/MateuszKuruc/ATS-recruitme
    Live: (https://www.reklamyfacebook.pl/)
    Github repository & description: (https://github.com/MateuszKuruc/marketing-portfolio)
 
-          
-          
 
-
-          
-          
-          
-
-<!--
-**MateuszKuruc/MateuszKuruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
