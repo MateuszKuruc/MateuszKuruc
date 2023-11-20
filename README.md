@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
-<p>My main focus is on modern frontend tools, like React, Next.js or TypeScript, but I am also regularly learning backend to deepen my understanding of web dev.
+<p>My main focus is on modern frontend tools, like React, Next.js or TypeScript, but I am also regularly learning backend to deepen my understanding of web dev. 
 </p>
 
 🌐 [Visit my website to learn more!](https://www.mateuszkuruc.com)
@@ -26,8 +26,13 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />     
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
           
-###___
-
+### My projects:
+1. Applicant Tracking System
+   Live: (https://ats-mateuszkuruc.onrender.com/)
+   Github repository & description: (https://github.com/MateuszKuruc/ATS-recruitment-app)
+2. Marketing Portfolio Website
+   Live: (https://www.reklamyfacebook.pl/)
+   Github repository & description: (https://github.com/MateuszKuruc/marketing-portfolio)
 
           
           
