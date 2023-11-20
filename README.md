@@ -44,7 +44,7 @@ Github: [Repository & description](https://github.com/MateuszKuruc/ATS-recruitme
 
 
 
-<h3>2. Marketing Portfolio Website</h3>h3>
+<h3>2. Marketing Portfolio Website</h3>
 
 
 
