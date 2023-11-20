@@ -1,7 +1,10 @@
 ### Hi there 👋
+I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
+My main focus is on modern frontend tools, like React, Next.js or TypeScript, but I am also regularly learning backend to deepen my understanding of web dev. 
 
+🌐 [Visit Website](https://www.mateuszkuruc.com)
 ---
-### Tools I use
+### Tools I use to build my projects:
 
 <img align="left" alt="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
@@ -22,7 +25,7 @@
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />     
 <img align="left" alt="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
           
-___
+###___
 
 
           
