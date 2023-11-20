@@ -28,10 +28,10 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 
 
 <p>
- 
-### My projects:
+ See my work:
 </p>
 
+### My projects:
 
 
 1. Applicant Tracking System  
