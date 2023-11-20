@@ -44,11 +44,20 @@ Github: [Repository & description](https://github.com/MateuszKuruc/ATS-recruitme
 
 
 
-2. Marketing Portfolio Website
+<h3>2. Marketing Portfolio Website</h3>h3>
 
 
 
 🌐 Live: [Marketing portfolio site](https://www.reklamyfacebook.pl/)  
 Github: [Repository & description](https://github.com/MateuszKuruc/marketing-portfolio)
+
+
+### <h3>Contact</h3>
+
+
+📫 mateuszkuruc@gmail.com
+
+
+☎️ +48 531 380 713
 
 
