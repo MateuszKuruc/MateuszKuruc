@@ -31,7 +31,7 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 
 
 
-### <h2>My projects:</h2>
+### <h2>My latest projects:</h2>
 
 
 <h3>1. Applicant Tracking System</h3>
