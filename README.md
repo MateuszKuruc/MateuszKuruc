@@ -7,7 +7,7 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 ---
 ### <h2>Tools I use for development:</h2>
 
-<div style="display: flex; gap: 10px">
+<div style="display: flex; gap: 10px, border: 2px solid red">
   
 <img alt="JavaScript" width="30px" style="margin-bottom: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt="HTML" width="30px" style="margin-bottom: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
