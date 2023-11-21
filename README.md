@@ -7,6 +7,8 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 ---
 ### <h2>Tools I use for development:</h2>
 
+<div style="display: flex; justify-content: space-between; align-items: center>
+  
 <img align="left" alt="JavaScript" width="30px" style="margin-bottom: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="30px" style="margin-bottom: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
 <img align="left" alt="CSS" width="30px" style="margin-bottom: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
@@ -24,6 +26,7 @@ I'm Mateusz, a junior JavaScript Developer passionate about building web apps!
 <img align="left" alt="Github" width="30px" style="margin-bottom: 20px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Jest" width="30px" style="margin-bottom: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Git" width="30px" style="margin-bottom: 20px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />     
+</div>
 <img align="left" alt="Git" width="30px" style="margin-bottom: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
 
 
